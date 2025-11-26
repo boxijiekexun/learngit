@@ -5,7 +5,10 @@ int main(){
   cout << "This is git.  hello world" << endl;
   cout << "hh" << endl;
   return 0;
+
 }
+
 void hello(){
+    cout << "This test " << endl;
     cout << "oh yeah" << endl;
 }
